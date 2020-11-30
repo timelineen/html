@@ -1,7 +1,7 @@
 # html
 C++ HTML
 使用WinInet中的InternetOpen InternetOpenUrl InternetReadFile
-
+···
 #include "stdafx.h"
 #include<stdio.h>
 #include<Windows.h>
@@ -48,3 +48,4 @@ int main()
 	system("pause");
 	return 0;
 }
+···
